@@ -36,7 +36,7 @@ import discord
 from discord.ext import commands
 
 BOT_PREFIX = 'aa!'
-BOT_LINK = "https://labs.phundrak.fr/phundrak/TranslAAAAAAAAAAAAAAAAAtor",
+BOT_LINK = "https://labs.phundrak.com/phundrak/TranslAAAAAAAAAAAAAAAAAtor",
 
 
 class TranslAAAAAAAAAAAAAAAAAtorBot:
