@@ -1,0 +1,8 @@
+version: '3'
+
+services:
+  bot:
+    image: phundrak/translaaaaaaaaaaaaaaaaator:latest
+    command: python translaaaaaaaaaaaaaaaaator.py
+    environment:
+      - BOT_TOKEN: replaceme
