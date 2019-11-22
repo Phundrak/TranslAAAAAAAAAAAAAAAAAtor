@@ -46,8 +46,6 @@
         command: python translaaaaaaaaaaaaaaaaator.py
         environment:
           - BOT_TOKEN=yourtoken
-        volumes:
-          - .:/code
   #+END_SRC
   You can  now run  the project  within a contained  environment by  running the
   following command:
