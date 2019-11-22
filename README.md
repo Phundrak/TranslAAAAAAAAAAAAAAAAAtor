@@ -17,7 +17,7 @@ The only dependency of translAAAAAAAAAAAAAAAAAtor is [Discord.py](https://github
 
 # Invite TranslAAAAAAAAAAAAAAAAAtor<a id="sec-3"></a>
 
-Maybe you do not want to build the bot itself, but instead you just want to invite it on your server? I got you covered! You can invite the official instance of TranslAAAAAAAAAAAAAAAAAtor by clicking [here](https://discordapp.com/api/oauth2/authorize?client_id=603207431157317632&permissions=67584&scope=bot)!
+Maybe you do not want to build the bot itself, but instead you just want to invite it on your server? I got you covered! You can invite the official instance of TranslAAAAAAAAAAAAAAAAAtor by clicking [here](https://discordapp.com/api/oauth2/authorize?client_id=647381498827243543&permissions=67584&scope=bot)!
 
 Be aware though that I cannot ensure 24/7 uptime of TranslAAAAAAAAAAAAAAAAAtor. If you notice it is down, shoot me a tweet (faster), a DM (fast, P'undrak#0001) or an email (slower).
 
